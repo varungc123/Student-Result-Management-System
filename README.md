@@ -1,13 +1,13 @@
 #  Student Result Management System
 
-# 🎓 Student Result Management System
+# Student Result Management System
 
 A **PHP & MySQL-based web application** for managing student results efficiently.  
 This project allows administrators to add, update, and view student details and academic results.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Admin login authentication  
 - Add / Manage classes and subjects  
@@ -18,7 +18,7 @@ This project allows administrators to add, update, and view student details and 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
@@ -27,7 +27,7 @@ This project allows administrators to add, update, and view student details and 
 
 ---
 
-## ⚙️ Installation Steps
+##  Installation Steps
 
 1. Clone this repository:
    ```bash
